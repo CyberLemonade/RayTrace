@@ -1,2 +1,2 @@
 # RayTrace
- Simple RayTracer written from scratch in C++
+ Simple RayTracer written in C++.
